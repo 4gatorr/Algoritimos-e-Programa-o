@@ -1,3 +1,13 @@
+/*
+Faça um algoritmo que receba dois números;
+execute as operações listadas a seguir
+de acordo com a escolha do usuário.
+M	média entre os números digitados 
+S	diferença do maior pelo menor
+P	produto entre os números digitados 
+D	divisão do primeiro pelo segundo
+*/
+//Feito por: Heitor Soares da Silva
 package Exercicios3;
 import java.util.Scanner;
 

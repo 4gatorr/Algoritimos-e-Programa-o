@@ -1,3 +1,14 @@
+/*
+Faça um algoritmo que leia o período em que um aluno estuda:
+M - Matutino;
+V - Vespertino;
+N - Noturno.
+Escreva uma das opções a seguir:
+M	bom dia
+V	boa tarde
+N	boa noite
+*/
+//Feito por: Heitor Soares da Silva
 package Exercicios3;
 import java.util.Scanner;
 

@@ -1,3 +1,9 @@
+/*
+Crie um algoritmo que leia um número de 1 a 7.
+imprima o dia da semana correspondente;
+assuma que 1 corresponde ao Domingo.
+*/
+//Feito por: Heitor Soares da Silva
 package Exercicios3;
 import java.util.Scanner;
 

@@ -1,3 +1,8 @@
+/*
+Faça um algoritmo que leia um inteiro entre 1 e 12;
+imprima o nome do mês por extenso.
+*/
+//Feito por: Heitor Soares da Silva
 package Exercicios3;
 import java.util.Scanner;
 

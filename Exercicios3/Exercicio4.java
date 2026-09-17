@@ -1,3 +1,11 @@
+/*
+Um funcionário receberá aumento de acordo com seu plano de 	trabalho.
+Faça um algoritmo que leia:
+o plano de trabalho;
+e o salário atual de um funcionário;
+Calcule e imprima o seu novo salário.
+*/
+//Feito por: Heitor Soares da Silva
 package Exercicios3;
 import java.util.Scanner;
 

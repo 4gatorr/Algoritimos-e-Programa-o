@@ -1,3 +1,12 @@
+/*
+Dado o cardápio de uma 	lanchonete:
+Faça um algoritmo que:
+leia o código do produto e a quantidade;
+calcule o valor a ser pago pelo cliente;
+imprimir o valor a ser pago;
+imprimir o nome do produto.
+*/
+//Feito por: Heitor Soares da Silva
 package Exercicios3;
 import java.util.Scanner;
 
