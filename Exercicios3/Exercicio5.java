@@ -39,7 +39,7 @@ public class Exercicio5 {
                 if(num1 > num2){
                     System.out.println("O numero 1 é maior que o numero 2");
                 }else{
-                    System.out.println("O numero 2 é maior que o nuemro 1");
+                    System.out.println("O numero 2 é maior que o numero 1");
                 }
             break;
             case "P":
