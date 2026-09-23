@@ -40,7 +40,7 @@ public class Exercicio4 {
                 System.out.println("Seu novo salario é "+ calculo);               
                 break;
             default:
-                throw new AssertionError();
+                System.out.println("Invalido");               
         }
     }
 }

@@ -60,7 +60,7 @@ public class Exercicio6 {
                 System.out.println("Valor a ser pago: R$"+valor);      
                 break;
             default:
-                throw new AssertionError();
+                System.out.println("Invalido");                
         }
     }
 }
