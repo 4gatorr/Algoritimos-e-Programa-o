@@ -1,4 +1,4 @@
-public class sal {
+public class Acumulador {
     public static void main (String [] args){
         int contador = 0;
         int acumulador = 1;
